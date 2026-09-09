@@ -1,0 +1,13 @@
+{
+    "FeatureRecommend": {
+        "MovementAI": {
+            "82D3F7AF-2041-4514-AC1A-8441FCEE0C10": "20260905051916C06F71D691922979CC99"
+        }
+    },
+    "timeline_settings": {
+        "B261AA23-CFF7-42EB-8B34-1DC57B666AAD": {
+            "adsorb_enabled": true,
+            "linkage_enabled": false
+        }
+    }
+}
